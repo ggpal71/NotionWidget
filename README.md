@@ -1,0 +1,2 @@
+# NotionWidget
+Update daily quotes.
